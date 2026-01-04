@@ -6,8 +6,8 @@ Foodie developer exploring IoT, apps, and web. I enjoy eating, building, and res
 - Tech: Vue, React, Next, Nuxt, Flutter, JS/TS, Docker
 - GitHub: [@boomNDS](https://github.com/boomNDS)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=boomNDS&show_icons=true&rank_icon=github&hide_title=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boomNDS&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=boomNDS&show_icons=true&rank_icon=github&hide_title=true&cache_seconds=1800)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boomNDS&layout=compact&cache_seconds=1800)
 
 ## Activity snake
 
